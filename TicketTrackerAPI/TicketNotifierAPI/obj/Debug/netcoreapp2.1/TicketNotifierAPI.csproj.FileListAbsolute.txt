@@ -1,0 +1,14 @@
+D:\OProjects\TicketTracker\TicketTrackerAPI\TicketNotifierAPI\bin\Debug\netcoreapp2.1\TicketNotifierAPI.deps.json
+D:\OProjects\TicketTracker\TicketTrackerAPI\TicketNotifierAPI\bin\Debug\netcoreapp2.1\TicketNotifierAPI.runtimeconfig.json
+D:\OProjects\TicketTracker\TicketTrackerAPI\TicketNotifierAPI\bin\Debug\netcoreapp2.1\TicketNotifierAPI.runtimeconfig.dev.json
+D:\OProjects\TicketTracker\TicketTrackerAPI\TicketNotifierAPI\bin\Debug\netcoreapp2.1\TicketNotifierAPI.dll
+D:\OProjects\TicketTracker\TicketTrackerAPI\TicketNotifierAPI\bin\Debug\netcoreapp2.1\TicketNotifierAPI.pdb
+D:\OProjects\TicketTracker\TicketTrackerAPI\TicketNotifierAPI\obj\Debug\netcoreapp2.1\TicketNotifierAPI.csproj.CoreCompileInputs.cache
+D:\OProjects\TicketTracker\TicketTrackerAPI\TicketNotifierAPI\obj\Debug\netcoreapp2.1\TicketNotifierAPI.RazorAssemblyInfo.cache
+D:\OProjects\TicketTracker\TicketTrackerAPI\TicketNotifierAPI\obj\Debug\netcoreapp2.1\TicketNotifierAPI.RazorAssemblyInfo.cs
+D:\OProjects\TicketTracker\TicketTrackerAPI\TicketNotifierAPI\obj\Debug\netcoreapp2.1\TicketNotifierAPI.AssemblyInfoInputs.cache
+D:\OProjects\TicketTracker\TicketTrackerAPI\TicketNotifierAPI\obj\Debug\netcoreapp2.1\TicketNotifierAPI.AssemblyInfo.cs
+D:\OProjects\TicketTracker\TicketTrackerAPI\TicketNotifierAPI\obj\Debug\netcoreapp2.1\TicketNotifierAPI.RazorTargetAssemblyInfo.cache
+D:\OProjects\TicketTracker\TicketTrackerAPI\TicketNotifierAPI\obj\Debug\netcoreapp2.1\TicketNotifierAPI.dll
+D:\OProjects\TicketTracker\TicketTrackerAPI\TicketNotifierAPI\obj\Debug\netcoreapp2.1\TicketNotifierAPI.pdb
+D:\OProjects\TicketTracker\TicketTrackerAPI\TicketNotifierAPI\obj\Debug\netcoreapp2.1\TicketNotifierAPI.csprojAssemblyReference.cache
