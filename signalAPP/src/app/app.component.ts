@@ -11,7 +11,7 @@ export class AppComponent {
   ngOnInit() {
      //this.hubConnection=new HubConnection("http://localhost:62659/TicketManagerHub",{logger:LogLevel.Trace});
      const connection = new HubConnectionBuilder()
-     .withUrl("http://localhost:50313/TicketNotificationHub")
+     .withUrl("http://localhost:50314/TicketNotificationHub")
      .configureLogging(LogLevel.Information)
      .build();
  
@@ -19,7 +19,7 @@ export class AppComponent {
      connection.start()
       .then(res => {
         console.log('connection started');
-        this.http.get("http://localhost:50313/api/values/5").subscribe(res => {
+        this.http.get("http://localhost:50314/api/values/5").subscribe(res => {
       console.log(res);
     })
       })
